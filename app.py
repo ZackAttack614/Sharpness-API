@@ -18,6 +18,6 @@ def index():
     return {}
   if depth not in data.keys():
     return {}
-  return json.dumps(data[depth]['0'])
+  return json.dumps(data[depth])
 
 app.run(host='0.0.0.0')
