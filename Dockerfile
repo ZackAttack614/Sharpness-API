@@ -5,4 +5,4 @@ ADD . .
 
 RUN pip install -r requirements.txt
 
-ENTRYPOINT ['python', 'app.py']
+ENTRYPOINT ["python", "app.py"]
