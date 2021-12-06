@@ -1,5 +1,4 @@
 env/
 Dockerfile
 .dockerignore
-lichess-analysis-abe717c29e85.json
 load.py

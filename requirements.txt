@@ -1,2 +1,4 @@
 flask-api
-
+flask-api-cache
+google-cloud-bigquery
+google-oauth
